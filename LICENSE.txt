@@ -1,5 +1,7 @@
-Copyright (c) 2015 digitalextremist // and abstractive labs;
-founder, and lab of delimiter chambers limited respectively.
+MIT License
+
+Copyright (c) 2019 digitalextremist // and abstractive labs;
+individual founder, and a division of delimiter chambers limited respectively.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
