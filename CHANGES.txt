@@ -1,0 +1,5 @@
+2019-03-04 [ 6Fx5 ] Initial Commits
+
+* Began laying out Specification Requirements
+* Commented on concurrent timelines with @chuckremes' repository focusing on Ruby RINA implementation.
+* Packaged as a Ruby gem called `vertices`
